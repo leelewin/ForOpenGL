@@ -1,0 +1,5 @@
+/home/lewin/GitHub项目本地存储库/opengl/build/CMakeFiles/rebuild_cache.dir
+/home/lewin/GitHub项目本地存储库/opengl/build/CMakeFiles/edit_cache.dir
+/home/lewin/GitHub项目本地存储库/opengl/build/src/CMakeFiles/rebuild_cache.dir
+/home/lewin/GitHub项目本地存储库/opengl/build/src/CMakeFiles/edit_cache.dir
+/home/lewin/GitHub项目本地存储库/opengl/build/src/CMakeFiles/renderer.dir
